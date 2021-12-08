@@ -1,3 +1,3 @@
 # Git & GitHub Eğitimi
 
-Pull öğreniyorum.
+ - Cihat AŞİR
